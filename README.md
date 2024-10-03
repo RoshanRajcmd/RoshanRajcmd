@@ -9,3 +9,5 @@ I possess proficiency in a wide range of technologies, including JavaScript, HTM
 Additionally, I am well-versed in database management, with hands-on experience in SQL, MySQL, MongoDB, and Firebase. My familiarity with cloud services, including AWS, Google Cloud Platform, and Azure DevOps, allows me to deploy scalable applications that meet modern business demands.
 
 I am passionate about bringing my skills to organizations that share my vision of pushing the boundaries of innovation and design. My goal is to create impactful solutions that not only meet business objectives but also improve the lives of users through thoughtful, user-centered design and implementation.
+
+Email: roshanraj5121999@gmail.com
