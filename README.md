@@ -10,14 +10,16 @@ I am a dedicated Full Stack Developer, committed to continuous learning and prof
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Golang](https://github.com/user-attachments/assets/b490cbfe-c1c4-4137-9498-594688c17e10)
+![Golang](https://github.com/user-attachments/assets/b43c7c53-46a5-4054-9d27-00a243e1b5c0)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ### Shell
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-`Linux and Mac Terminal`
+![Linux and Mac Terminal](https://github.com/user-attachments/assets/e2765fbd-7fb8-4005-a1a8-a87512515af6)
+
 
 ### Build
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) 
