@@ -10,21 +10,19 @@ I am a dedicated Full Stack Developer, committed to continuous learning and prof
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Golang](https://github.com/user-attachments/assets/b43c7c53-46a5-4054-9d27-00a243e1b5c0)
-
+![Golang](https://github.com/user-attachments/assets/383cb0f0-28d2-4d99-812b-26e91e47ce25)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ### Shell
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Linux and Mac Terminal](https://github.com/user-attachments/assets/e2765fbd-7fb8-4005-a1a8-a87512515af6)
-
+![Linux and Mac Terminal](https://github.com/user-attachments/assets/88d91132-d998-4cd6-9264-ff94a4abfd43)
 
 ### Build
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) 
-`Maven`
-`Gradel`
+![Maven](https://github.com/user-attachments/assets/2d064501-d237-4418-b620-d35195ec09bb)
+![Gradel](https://github.com/user-attachments/assets/80ea6df8-eb20-4399-8e7b-8ff4b657106d)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
@@ -34,19 +32,19 @@ I am a dedicated Full Stack Developer, committed to continuous learning and prof
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
-`TailwindCss`
+![Tailwind CSS](https://github.com/user-attachments/assets/7d673086-40b8-41be-a7a8-aff0eda08e5f)
 
 ### Back-End Frameworks and Libary
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-`SpringBoot`
-`GORM and GIN`
+![Spring Boot](https://github.com/user-attachments/assets/331e6d73-3eeb-472e-b0d3-29bd0fc6b634)
+![GORM and GIN](https://github.com/user-attachments/assets/02601b49-5706-4a20-bc1b-b868b07ab415)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 ### DataBase
-`Oracal DB`
+![Oracle DB](https://github.com/user-attachments/assets/2dbfa807-5cfe-4944-bc4e-519df5265a3b)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
